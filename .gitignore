@@ -1,0 +1,5 @@
+bot_token.py
+*.json
+.DS_Store
+*.pyc
+___pycache___
